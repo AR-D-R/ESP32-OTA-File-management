@@ -1,5 +1,5 @@
-# ESP32-OTA-File-management
-OTA Firmware update & File management for ESP32.<br>
+# ESP32-Async-OTA-File-management
+Async OTA Firmware update & File management for ESP32.<br>
 This sketch will let you:<br>
 1. Update ESP32 Firmware using a compiled binary file.<br>
 2. Upload SPIFFS.bin that can contain supporting files that you might need for your project.<br>
